@@ -1,0 +1,14 @@
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\bin\Debug\net8.0\Lab.6.2.medium.lvl.exe
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\bin\Debug\net8.0\Lab.6.2.medium.lvl.deps.json
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\bin\Debug\net8.0\Lab.6.2.medium.lvl.runtimeconfig.json
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\bin\Debug\net8.0\Lab.6.2.medium.lvl.dll
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\bin\Debug\net8.0\Lab.6.2.medium.lvl.pdb
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.GeneratedMSBuildEditorConfig.editorconfig
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.AssemblyInfoInputs.cache
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.AssemblyInfo.cs
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.csproj.CoreCompileInputs.cache
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.dll
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\refint\Lab.6.2.medium.lvl.dll
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.pdb
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\Lab.6.2.medium.lvl.genruntimeconfig.cache
+D:\22-loxi-ISP\Lab.6.2.medium.lvl\Lab.6.2.medium.lvl\obj\Debug\net8.0\ref\Lab.6.2.medium.lvl.dll
